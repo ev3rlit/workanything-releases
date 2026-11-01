@@ -4,7 +4,7 @@ WorkAnything 데스크톱 앱과 CLI의 공개 배포 저장소입니다. 제품
 
 [릴리즈 및 다운로드](https://github.com/ev3rlit/workanything-releases/releases)
 
-첫 공개 릴리즈를 준비 중입니다. 정식 릴리즈 게시 전에는 latest 다운로드를 사용할 수 없습니다.
+첫 공개 시험판 [v0.1.0-rc.5](https://github.com/ev3rlit/workanything-releases/releases/tag/v0.1.0-rc.5)를 받을 수 있습니다. 정식 릴리즈 게시 전에는 latest 다운로드와 앱의 정식 업데이트 알림을 사용할 수 없습니다.
 
 - 데스크톱: macOS Apple Silicon (ARM64) DMG
 - CLI: macOS ARM64·Intel, Linux x64, Windows x64
